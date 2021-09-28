@@ -17,7 +17,7 @@ body {
   border: 1px solid steelblue;
   padding: 30px;
   border-radius: 5px;
-  box-shadow: 10px 5px 5px 0 grey;
+  box-shadow: 5px 5px 5px 0 grey;
 }
 
 .header {
@@ -39,6 +39,9 @@ body {
   justify-content: space-between;
 }
 
+li {
+  list-style-type: none;
+}
 .add-form {
   margin-bottom: 40px;
 }
