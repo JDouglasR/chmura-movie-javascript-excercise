@@ -2,7 +2,7 @@
   "name": "movies-javascript-exercise",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jdouglasr.github.io/chmura-movie-javascript-excercise",
+  "homepage": "https://jdouglasr.github.io/chmura-movie-javascript-excercise",
   "proxy": "https://switch-yam-equator.azurewebsites.net/api",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
